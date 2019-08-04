@@ -1,0 +1,8 @@
+Script started on Sun 23 Sep 2018 02:57:47 AM PDT
+]0;jr8464@csweb01:~[?1034h[jr8464@csweb01 ~]$ exithellogcc hello.c -o hello
+]0;jr8464@csweb01:~[jr8464@csweb01 ~]$ ./hello
+huy giang
+]0;jr8464@csweb01:~[jr8464@csweb01 ~]$ exit
+exit
+
+Script done on Sun 23 Sep 2018 02:57:58 AM PDT

@@ -1,0 +1,11 @@
+Script started on Sun 23 Sep 2018 03:03:40 AM PDT
+]0;jr8464@hopper:~[?1034h[jr8464@hopper ~]$ urec[K[K[K[K./urecv4 20000
+Socket has port #20000
+Received packet, time = 1537697060 668853, seqno = 1
+Received packet, time = 1537697062 877277, seqno = 1
+Received packet, time = 1537697063 952606, seqno = 1
+^C
+]0;jr8464@hopper:~[jr8464@hopper ~]$ exit
+exit
+
+Script done on Sun 23 Sep 2018 03:04:37 AM PDT

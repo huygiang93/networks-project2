@@ -1,0 +1,10 @@
+Script started on Tue 11 Sep 2018 03:03:46 PM PDT
+]0;ua9347@hopper:~/CS441[?1034h[ua9347@hopper CS441]$ urecv 20000
+Socket has port #20000
+Received packet, time = 1536703455 890139, seqno = 1
+Received packet, time = 1536703458 335956, seqno = 1
+^C
+]0;ua9347@hopper:~/CS441[ua9347@hopper CS441]$ exit
+exit
+
+Script done on Tue 11 Sep 2018 03:04:24 PM PDT

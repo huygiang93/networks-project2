@@ -1,0 +1,20 @@
+Script started on Tue 11 Sep 2018 03:02:02 PM PDT
+]0;ua9347@csweb01:~/CS441[?1034h[ua9347@csweb01 CS441]$ ls -l
+total 32
+-rw-r--r--. 1 ua9347 domain users    0 Sep 11 15:02 typescript
+-rwxr-xr-x. 1 ua9347 domain users 9256 Sep 11 14:50 [0m[01;32murecv[0m
+-rw-r--r--. 1 ua9347 domain users 2084 Sep 11 14:47 urecv4.c
+-rwxr-xr-x. 1 ua9347 domain users 9192 Sep 11 14:50 [01;32musend[0m
+-rw-r--r--. 1 ua9347 domain users 1866 Sep 11 14:47 usend4.c
+]0;ua9347@csweb01:~/CS441[ua9347@csweb01 CS441]$ usend
+Usage: usend4 hostname portnumber
+]0;ua9347@csweb01:~/CS441[ua9347@csweb01 CS441]$ usend hopper 20000
+Tue Sep 11 15:02:18 PDT 2018
+sent packet with seqno 1
+]0;ua9347@csweb01:~/CS441[ua9347@csweb01 CS441]$ usend hopper 20000
+Tue Sep 11 15:02:27 PDT 2018
+sent packet with seqno 1
+]0;ua9347@csweb01:~/CS441[ua9347@csweb01 CS441]$ exit
+exit
+
+Script done on Tue 11 Sep 2018 03:02:29 PM PDT
